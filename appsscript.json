@@ -14,8 +14,8 @@
     "authType": ["KEY"],
     "feeType": ["FREE"],
     "sources": ["PRIVATUS_ANALYTICS"],
-    "privacyPolicyUrl": "https://privatusanalytics.com/privacy",
-    "termsOfServiceUrl": "https://privatusanalytics.com/terms"
+    "privacyPolicyUrl": "https://privatusanalytics.com/legal/privacy",
+    "termsOfServiceUrl": "https://privatusanalytics.com/legal/terms"
   },
   "urlFetchWhitelist": ["https://privatusanalytics.com/"],
   "oauthScopes": [
