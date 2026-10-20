@@ -1,0 +1,24 @@
+{
+  "timeZone": "Etc/UTC",
+  "runtimeVersion": "V8",
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Privatus Analytics",
+    "logoUrl": "https://privatusanalytics.com/icon-192.png",
+    "company": "Privatus Analytics",
+    "companyUrl": "https://privatusanalytics.com",
+    "addonUrl": "https://privatusanalytics.com/docs/integrations/looker-studio",
+    "supportUrl": "https://privatusanalytics.com/support",
+    "description": "Privacy-first, cookieless website analytics in Looker Studio: visitors, visits, pageviews, bounce rate, sources, pages, countries, devices, UTM campaigns, events, goals and revenue for your Privatus Analytics sites.",
+    "shortDescription": "Cookieless web analytics from Privatus Analytics.",
+    "authType": ["KEY"],
+    "feeType": ["FREE"],
+    "sources": ["PRIVATUS_ANALYTICS"],
+    "privacyPolicyUrl": "https://privatusanalytics.com/privacy",
+    "termsOfServiceUrl": "https://privatusanalytics.com/terms"
+  },
+  "urlFetchWhitelist": ["https://privatusanalytics.com/"],
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ]
+}

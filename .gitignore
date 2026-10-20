@@ -1,0 +1,10 @@
+node_modules/
+.clasp.json
+.clasprc.json
+*.log
+.DS_Store
+.secrets/
+SUBMISSION.md
+.env
+.env.local
+coverage/
