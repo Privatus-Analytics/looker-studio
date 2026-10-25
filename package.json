@@ -1,5 +1,5 @@
 {
-  "name": "@privatus/looker-studio-connector",
+  "name": "@privatus-analytics/looker-studio-connector",
   "version": "1.0.0",
   "private": true,
   "description": "Privatus Analytics community connector for Looker Studio (Google Apps Script).",
