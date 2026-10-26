@@ -1,8 +1,20 @@
 # Privatus Analytics — Looker Studio connector
 
-A [Looker Studio community connector](https://developers.google.com/looker-studio/connector)
-(Google Apps Script) that reads your cookieless Privatus Analytics stats through
-the Privatus Analytics API.
+**Your Privatus Analytics numbers in Looker Studio reports.**
+
+Your team builds reports in Looker Studio. But your website numbers live in
+another dashboard, so someone copies them over by hand.
+
+This connector reads your stats through the Privatus Analytics API and brings
+them into Looker Studio: visitors, pageviews, sources, countries, pages, goals,
+revenue and more.
+
+So your website numbers sit next to the rest of your data in one report, and
+they stay up to date. The numbers are honest too. Privatus Analytics counts
+visits without cookies, so there is no cookie pop-up for your analytics, and it
+leaves bots out.
+
+**Free plan, no card:** 10,000 events a month (an event is a page view or an action you track) on up to 3 sites. [Start free at privatusanalytics.com](https://privatusanalytics.com).
 
 ## What you get
 
